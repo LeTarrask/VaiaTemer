@@ -26,6 +26,20 @@ Ou baixá-lo manualmente do GitHub:
 	git clone https://github.com/tweepy/tweepy.git
 	cd tweepy
 	python setup.py install
+	
+## Rodando o VaiaTemer
+Baixe os arquivos do VaiaTemer em https://github.com/LeTarrask/VaiaTemer
+
+Coloque os números da app do twitter nos espaços respectivos dentro do arquivo **keys.py**, que pode ser editado com qualquer editor. Não se esqueça de manter a extensão .py
+
+## Vamos rodar o VaiaTemer
+Abra o terminal. Mude para a pasta onde estão localizados os arquivos (um jeito fácil de fazer isso é digitar o comando "cd " e arrastar a pasta para o terminal, pelo menos no Mac).
+
+Digite o comando
+
+	python vaia.py
+
+Pronto. Enquanto o terminal estiver aberto, o seu bot vai vaiar o presidente.
 
 ## Contribuições
 
